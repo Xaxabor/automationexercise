@@ -1,7 +1,5 @@
 # automationexercise
-Automate some given scenario for 'http://automationexercise.com'
-
-Scenarios-
+Automate some given scenario for 'http://automationexercise.com'. Scenarios-
 1. Launch browser(Chrome/Firefox)
 2. Navigate to url 'http://automationexercise.com'
 3. Verify that home page is visible successfully
