@@ -11,7 +11,7 @@ Automate some given scenario for 'http://automationexercise.com'. Scenarios-
 9. Fill all details in Sign up and create account
 10. Verify 'ACCOUNT CREATED!' and click 'Continue' button
 11. Verify ' Logged in as username' at top
-12.Click 'Cart' button
+12. 12. Click 'Cart' button
 13. Click 'Proceed To Checkout' button
 14. Verify Address Details and Review Your Order
 15. Enter description in comment text area and click 'Place Order'
