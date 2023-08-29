@@ -34,8 +34,7 @@ public class BaseTest{
         chromeOptions.addArguments("--start-maximized");
         chromeOptions.addArguments("disable-notifications");
         chromeOptions.addArguments("test-type");
-//        chromeOptions.addArguments("--disable-web-security");
-//        chromeOptions.addArguments("--no-proxy-server");
+        chromeOptions.setPageLoadStrategy(PageLoadStrategy.EAGER);
 
         Map<String, Object> prefs = new HashMap<String, Object>();
         prefs.put("autofill.profile_enabled", false);
